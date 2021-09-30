@@ -8,3 +8,4 @@ we have add commit push
 
 working directory staging local repository remote repository
 
+we want to use git ferge something like that
